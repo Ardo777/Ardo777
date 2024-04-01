@@ -15,6 +15,5 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardo777&label=Profile%20views&color=0e75b6&style=flat" alt="ardo777" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ardo777" alt="ardo777" /></a> </p>
-
+![](https://github-profile-trophy.vercel.app/?username=Ardo777&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ardo777&" alt="ardo777" /></p>
