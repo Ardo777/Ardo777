@@ -12,8 +12,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ardo777&show_icons=true&locale=en&layout=compact" alt="ardo777" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ardo777&show_icons=true&locale=en" alt="ardo777" /></p>
+<br clear="both">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ardo777&label=Profile%20views&color=0e75b6&style=flat" alt="ardo777" /> </p>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ![](https://github-profile-trophy.vercel.app/?username=Ardo777&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ardo777&" alt="ardo777" /></p>
