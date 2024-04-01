@@ -4,7 +4,7 @@
 <a href="https://fb.com/ardoneap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ardoneap" height="30" width="40" /></a>
 <a href="https://instagram.com/ardo.777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ardo.777" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/jB26FFSD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/jB26FFSD" height="30" width="40" /></a>
-  <a href="https://t.me/ardoneap"> <img src="https://image.similarpng.com/very-thumbnail/2021/10/Telegram-icon-on-transparent-background-PNG.png" alt="telegram" width="40" height="40"/> </a>
+  <a href="https://t.me/ardoneap"> <img src="https://static-00.iconduck.com/assets.00/telegram-icon-2048x2048-ctlhfvgw.png" alt="telegram" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
